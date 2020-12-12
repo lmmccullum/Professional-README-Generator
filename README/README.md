@@ -28,10 +28,8 @@ INSTRUCTIONS FOR USE:
 SCREENSHOT:
 • The included image demonstrates the application functionality:
 
-        ****Included in the README directory****
-
 [![Demonstrative Video](homework9_screen_capture.gif)]
 
 QUESTIONS:
 • If you have any questions, concerns or suggestions please feel free to contact me with the link below.
-GitHub: lmmccullum (github.com)
+GitHub: https://github.com/lmmccullum
