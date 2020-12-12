@@ -1,6 +1,5 @@
 # Professional-README-Generator
 
-Readme Generator
 
 TABLE OF CONTENTS:
 • Description
