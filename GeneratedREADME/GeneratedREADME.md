@@ -1,5 +1,5 @@
 # Table of Contents
-  # Table of Contents
+  
   1. [Details](#Details)
   2. [Installation](#Installation)
   3. [Benefits](#Benefits)
