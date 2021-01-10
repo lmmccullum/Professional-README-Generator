@@ -29,11 +29,10 @@ LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 WALKTHROUGH VIDEO: "https://i.imgur.com/uKf0Zje.mp4"  
-[![](homework9_screen_capture.gif)]
 • The included image demonstrates the application functionality:
 
 [![Demonstrative Video](homework9_screen_capture.gif)]
 
 QUESTIONS:
 • If you have any questions, concerns or suggestions please feel free to contact me with the link below.
-GitHub: https://github.com/lmmccullum
+GitHub: "https://github.com/lmmccullum"
