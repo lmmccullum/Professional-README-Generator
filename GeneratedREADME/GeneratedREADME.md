@@ -1,8 +1,13 @@
 # Table of Contents
+  # Table of Contents
   1. [Details](#Details)
-  2. [Example2](#example2)
-  3. [Third Example](#third-example)
-  4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+  2. [Installation](#Installation)
+  3. [Benefits](#Benefits)
+  4. [Licenses](#Licenses)
+  5. [Contributions](#Contributions)
+  6. [Test](#Test)
+  7. [Github](#Github)
+  8. [Email](#Email)
   
   # bobby
 

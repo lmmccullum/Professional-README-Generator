@@ -1,6 +1,5 @@
 # Professional-README-Generator
 
-
 # Table of Contents
   1. [Description](#Description)
   2. [Technology Used](#TechnologyUsed)
@@ -26,6 +25,7 @@ INSTRUCTIONS FOR USE:
 • Open your terminal and navigate to the root directory of this project. Next, run the command - 'node index.js'. It will prompt you to answer a few questions about your project it will then create a readme file.
 
 LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 SCREENSHOT:
